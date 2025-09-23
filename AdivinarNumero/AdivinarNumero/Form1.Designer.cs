@@ -47,7 +47,7 @@
             // 
             // lblResultado
             // 
-            this.lblResultado.BackColor = System.Drawing.Color.Brown;
+            this.lblResultado.BackColor = System.Drawing.Color.DarkRed;
             this.lblResultado.ForeColor = System.Drawing.Color.Black;
             this.lblResultado.Location = new System.Drawing.Point(146, 180);
             this.lblResultado.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -69,7 +69,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Brown;
+            this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(517, 263);
             this.Controls.Add(this.txtNumero);
             this.Controls.Add(this.lblResultado);
