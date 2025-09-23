@@ -76,7 +76,7 @@
             this.Font = new System.Drawing.Font("Futura Std Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
-            this.Text = "Adivina el número entre 1 y 20";
+            this.Text = "Adiviná el número entre 1 y 20";
             this.ResumeLayout(false);
             this.PerformLayout();
 
